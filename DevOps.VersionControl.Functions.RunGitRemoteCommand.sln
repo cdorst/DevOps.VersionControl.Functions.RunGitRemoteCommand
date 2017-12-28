@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps.VersionControl.Functions.RunGitRemoteCommand", "DevOps.VersionControl.Functions.RunGitRemoteCommand\DevOps.VersionControl.Functions.RunGitRemoteCommand.csproj", "{360225FB-9692-450B-94B4-9911E27D92AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360225FB-9692-450B-94B4-9911E27D92AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360225FB-9692-450B-94B4-9911E27D92AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360225FB-9692-450B-94B4-9911E27D92AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360225FB-9692-450B-94B4-9911E27D92AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DE9182-ADA6-4D5F-AD19-1B4FC9C33A4C}
+	EndGlobalSection
+EndGlobal
